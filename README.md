@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img width="200px" src="https://raw.githubusercontent.com/z3h1r/my-personel-website/main/assets/images/z3h1r.gif?token=GHSAT0AAAAAAB3SHKNRI64RP6KUKVJMKVYAY4SJPGA" alt="z3h1r"/>
-<br/>
+
+![z3h1r](https://user-images.githubusercontent.com/52961754/206566901-6ce03f22-3773-4d93-9ff4-986d1833c89b.gif)
+
 
 My Haxball Personal Website
 
@@ -42,7 +43,7 @@ https://user-images.githubusercontent.com/52961754/206565983-32763f29-33b3-46d3-
 </h1>
 
 ```
-git clone https://github.com/z3h1r/my-personel-website.git
+git clone https://github.com/z3h1r/my-personal-website.git
 cd my-personal-website
 
 open files and edit for yourself !
