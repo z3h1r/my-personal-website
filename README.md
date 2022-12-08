@@ -1,5 +1,6 @@
 <h1 align="center">
-  <img width="200px" src="https://raw.githubusercontent.com/z3h1r/my-personel-website/main/assets/images/z3h1r.gif?token=GHSAT0AAAAAAB3SHKNRI64RP6KUKVJMKVYAY4SJPGA" alt="z3h1r"/>
+![cj](https://user-images.githubusercontent.com/52961754/206566829-22a393de-2ba7-44e7-969d-9e94f5929122.png)
+
 <br/>
 
 My Haxball Personal Website
