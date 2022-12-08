@@ -6,10 +6,6 @@ My Haxball Personal Website
 
 </h1>
 
-<p align="center">My Old Personal Website</p>
-
-<br/>
-
 
 
 <p align="center">
