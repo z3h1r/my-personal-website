@@ -16,20 +16,6 @@ My Haxball Personal Website
 </p>
 
 <h1 align="center">
-    📊 Repo Stats
-</h1>
-
-<p align="center">
-    <img src="https://img.shields.io/github/release/z3h1r/my-personal-website.svg" alt="release">
-    <img src="https://img.shields.io/github/downloads/z3h1r/my-personal-website/total.svg" alt="downloads">
-    <img src="https://img.shields.io/github/forks/z3h1r/my-personal-website.svg" alt="forks">
-    <img src="https://img.shields.io/github/stars/z3h1r/my-personal-website.svg" alt="stars">
-    <img src="https://img.shields.io/github/watchers/z3h1r/my-personal-website.svg" alt="watchers">
-</p>
-
-<br/>
-
-<h1 align="center">
     💻 Technologies
 </h1>
 
