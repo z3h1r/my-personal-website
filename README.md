@@ -45,7 +45,10 @@ My Haxball Personal Website
     🎥 Website Preview
 </h1>
 
-https://user-images.githubusercontent.com/52961754/206045037-fbb7ef8d-af8b-4486-99ae-47bd7d60f5bd.mp4
+
+
+https://user-images.githubusercontent.com/52961754/206565866-fbb193e3-f95a-4398-bfae-507b548a1a15.mp4
+
 
 <h1 align="center">
     🚀 Getting Started
