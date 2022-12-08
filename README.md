@@ -1,7 +1,4 @@
-<h1 align="center">
-![cj](https://user-images.githubusercontent.com/52961754/206566829-22a393de-2ba7-44e7-969d-9e94f5929122.png)
-
-<br/>
+![z3h1r](https://user-images.githubusercontent.com/52961754/206566901-6ce03f22-3773-4d93-9ff4-986d1833c89b.gif)
 
 My Haxball Personal Website
 
