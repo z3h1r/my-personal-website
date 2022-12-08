@@ -13,9 +13,9 @@ My Haxball Personal Website
 
 
 <p align="center">
-    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/z3h1r/my-personal-website">
+    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/z3h1r/my-personel-website">
     &nbsp;
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/z3h1r/my-personal-website">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/z3h1r/my-personel-website">
     &nbsp;
     <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
@@ -25,11 +25,11 @@ My Haxball Personal Website
 </h1>
 
 <p align="center">
-    <img src="https://img.shields.io/github/release/z3h1r/my-personal-website.svg" alt="release">
-    <img src="https://img.shields.io/github/downloads/z3h1r/my-personal-website/total.svg" alt="downloads">
-    <img src="https://img.shields.io/github/forks/z3h1r/my-personal-website.svg" alt="forks">
-    <img src="https://img.shields.io/github/stars/z3h1r/my-personal-website.svg" alt="stars">
-    <img src="https://img.shields.io/github/watchers/z3h1r/my-personal-website.svg" alt="watchers">
+    <img src="https://img.shields.io/github/release/z3h1r/my-personel-website.svg" alt="release">
+    <img src="https://img.shields.io/github/downloads/z3h1r/my-personel-website/total.svg" alt="downloads">
+    <img src="https://img.shields.io/github/forks/z3h1r/my-personel-website.svg" alt="forks">
+    <img src="https://img.shields.io/github/stars/z3h1r/my-personel-website.svg" alt="stars">
+    <img src="https://img.shields.io/github/watchers/z3h1r/my-personel-website.svg" alt="watchers">
 </p>
 
 <br/>
