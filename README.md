@@ -43,7 +43,7 @@ https://user-images.githubusercontent.com/52961754/206565983-32763f29-33b3-46d3-
 </h1>
 
 ```
-git clone https://github.com/z3h1r/my-personel-website.git
+git clone https://github.com/z3h1r/my-personal-website.git
 cd my-personal-website
 
 open files and edit for yourself !
